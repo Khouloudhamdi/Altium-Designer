@@ -1,0 +1,18 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~projet3.PrjPcb|ReportField=ProjectFullPath~C:\Users\Dell\OneDrive\Pictures\projet03\projet3\projet3.PrjPcb|ReportField=Title~Bill of Materials For Project [projet3.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~37|ReportField=ReportTime~11:52:44 AM|ReportField=ReportDate~30/05/2023|ReportField=ReportDateTime~30/05/2023 11:52:44 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~30/05/2023|ReportField=CurrentTime~11:52:39 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Dell\OneDrive\Pictures\projet03\projet3\shema.SchDoc|ReportField=DocumentName~shema.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~30/05/2023|ReportField=Organization~|ReportField=ProjectName~projet3.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~projet3.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Dell\OneDrive\Pictures\projet03\projet3\projet3.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|ADC|Header, 8-Pin|ADC Connector1|HDR1X8|Header 8|1
+2|Cap|Capacitor|C1, C2, C3, C5, C11|RAD-0.3|Cap|5
+3|Cap Pol2|Polarized Capacitor (Axial)|C4, C6, C7, C8|POLAR0.8|Cap Pol2|4
+4|Cap Pol1|Polarized Capacitor (Radial)|C9, C10|RB7.6-15|Cap Pol1|2
+5|DS1307|Real Time Clock (RTC) IC Clock/Calendar 56B IÂ²C, 2-Wire Serial 8-SOIC (0.154, 3.90mm Width)|IC1|DIP794W47P254L991H457Q8|DS1307|1
+6|MC78L05ACP|3-Terminal Low-Current Positive Fixed Voltage Regulator|IC2|29-04|MC78L05ACP|1
+7|9V/12V|Jack Socket, 1/4" [6.5mm], Thru-Hole, Vertical, 2-Conductor with Tip closed|J1|JACK/6-V3A|Phonejack2 TN|1
+8|LED0|Typical INFRARED GaAs LED|LED1, LED2|LED-0|LED0|2
+9|SD_CON|Header, 7-Pin|microSD module Connector1|HDR1X7|Header 7|1
+10|XTAL|Crystal Oscillator|Q1, Q2|R38|XTAL|2
+11|Res1|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11|AXIAL-0.3|Res1|11
+12|SW-PB|Switch|S|SPST-2|SW-PB|1
+13|ATmega32A-PU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 40-pin PDIP, Industrial Grade (-40°C to 85°C)|U1|40P6|ATmega32A-PU|1
+14|MAX232ACPE+|2/2 Transceiver Full RS232 16-PDIP|U2|DIP794W47P254L1943H457Q16|MAX232ACPE+|1
+15|AVR-ISP|Emulators / Simulators AVR USB IN CIRCUIT EMUL/PRGMR ISP|U3|AVR-ISP|AVR-ISP|1
+16|LM35DZ/LFT4|&plusmn;0.5&deg;C 4V-30V, Temperature sensor with analog output 3-TO-92|U4|TO127P254X495-3P|LM35DZ/LFT4|1
+17|DB9|SURGE SUPPRESSOR RS-232 DB9M/F|X1|DB9|DB9|1

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator= NewDesignator=ADC Connector1
+Change Component Designator: OldDesignator= NewDesignator=microSD module Connector1
+Change Component Designator: OldDesignator=S? NewDesignator=S
+Change Net Name : Old Net Name=NetS?_1 New Net Name=NetS_1
+Added Member To Class: ClassName=shema Member=Component microSD module Connector1 SD_CON
+Added Room: Name=shema
